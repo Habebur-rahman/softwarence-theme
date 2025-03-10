@@ -1,0 +1,19 @@
+/*!
+Theme Name: Softwarence
+Theme URI: #
+Author: Habibur Rahman
+Author URI:  https://habiburrahman.pro/
+Description: Softwarence emphasizes simplicity and adaptability. It offers flexible design options, supported by a variety of patterns for different page types, such as services and landing pages, making it ideal for building personal blogs, professional portfolios, online magazines, or business websites. Its templates cater to various blog styles, from text-focused to image-heavy layouts. Additionally, it supports international typography and diverse color palettes, ensuring accessibility and customization for users worldwide.
+Version: 1.0.0
+Tested up to: 5.7
+Requires PHP: 7.3
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: softwarence
+Tags: custom-menu, custom-logo, entertainment, one-column, two-columns, left-sidebar, e-commerce, right-sidebar, custom-colors, editor-style, featured-images, full-width-template, microformats, post-formats, rtl-language-support, theme-options, threaded-comments, translation-ready, blog
+*/
+
+
+.wp-caption {
+    font-size:10px;
+}
